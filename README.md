@@ -27,11 +27,11 @@ Evaluation: Your submissions will be evaluated by a panel of instructors based o
 4- Design and User Experience: Is the resume visually appealing and easy to use?
 
 Note: Plagiarism is illegal, immoral and unacceptable. Any student who plagiarizes will immediately be removed from the program.
-zeeshansabeelofficial@gmail.com Switch accounts
+
  
 * Indicates required question
 Email *
-Record zeeshansabeelofficial@gmail.com as the email to be included with my response
+Record (Email)as the email to be included with my response
 Milestone 1: Static Interactive Resume Builder (100 Points)
 Milestone 2: Publish on GitHub and Host on Vercel (100 Points)
 1- Build a static resume using HTML, CSS, and TypeScript.
